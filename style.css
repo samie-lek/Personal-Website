@@ -114,10 +114,15 @@ h1 {
 
 .body {
     color: #F57600;
-    text-shadow: 0.5px 0.5p x #DE710B;
+    text-shadow: 0.5px 0.5px #DE710B;
 }
 
 body {
     background-color: #FAC898;
 }
 
+#test {
+width: 100px;
+height: 100px;
+color: red;
+}
